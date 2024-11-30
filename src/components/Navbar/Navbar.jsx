@@ -6,7 +6,6 @@ import { useSelector, useDispatch } from 'react-redux';
 import './Navbar.css'
 
 function Navbar() {
-  const lista = useSelector((state) => state.lista)
   const dispatch = useDispatch()
     useEffect(() => {
         async function fetchMyApi() {
@@ -23,7 +22,7 @@ function Navbar() {
   return (
     <div className='Navbar-Header'>
       <Link className='Navbar.logo-container' to="/">
-        <img style={{ width: '100%' }} src='/Livell.png' alt='' />
+        <img style={{ width: '100%' }} src='./Livell.png' alt='' />
       </Link>
     </div>
   );
