@@ -1,0 +1,26 @@
+.ListHorizontalCard_Styled{
+    text-align: center;
+    color:white;
+}
+
+.ListHorizontalCard_flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-inline: 5%;
+}
+
+.ListCard{
+    width:30%;
+}
+
+@media (max-width: 600px) {
+    .ListHorizontalCard_flex{
+        display: block;
+        text-align: center;
+    }
+    .ListCard{
+        width:80%;
+        margin: 5% auto;
+    }
+  }

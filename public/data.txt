@@ -1,0 +1,100 @@
+[
+    {
+        "id": 0,
+        "url": "fondo.svg",
+        "title1": "Health & Wellness",
+        "title2": "Yogui",
+        "p1": "educational website/",
+        "p2": "Show me more"
+    },
+    {
+        "id": 1,
+        "url": "healt_food.jpg",
+        "title1": "Food & Nutrition",
+        "title2": "REILE",
+        "p1": "website/",
+        "p2": "Show me more",
+        "titleInformacion": "Why it is important to maintain a balanced diet?",
+        "informacion": "A balanced diet is very important for the immune system, because you will feel and look very good, at the same time you will have much more energy to keep going throughout the day, to this is added the health of your body by being resistant to diseases, in short, total well-being in your life. A healthy diet helps protect the body from obesity and diseases such as diabetes, heart disease, and high blood pressure. The dishes can be varied, it is necessary to eat healthy, without neglecting the tasty, foods such as avocado, papaya, sweet potato are good for the well-being of the person, having the exact portions for energy consumption. Here are some tips to eat a healthy and healthy diet: Eat at least five pieces or servings of fruits and vegetables a day, avoid the consumption of processed foods that contain trans fats, consume moderate portions of food, avoid consumption of foods and beverages with a high sugar content (for example, sugary drinks, sugary snacks and sweets), eat 5 meals a day, 3 main meals and 2 snacks, in addition, eat slowly and drink between 2 liters and 2.5 liters of water daily.",
+        "subtema": [
+            {
+                "id": 0,
+                "title": "Breakfast",
+                "texto": "The best way to start the day",
+                "imagen": "breakfast.jpg"
+            },
+            {
+                "id": 1,
+                "title": "Foods",
+                "texto": "Give the body what it needs",
+                "imagen": "food.jpeg"
+            },
+            {
+                "id": 2,
+                "title": "Desserts",
+                "texto": "Incredible flavors",
+                "imagen": "dessert.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "url": "fitness.jpg",
+        "title1": "Fitness",
+        "title2": "REILE",
+        "p1": "website/",
+        "p2": "Show me more",
+        "titleInformacion": "Why it is important to exercise?",
+        "informacion": "Physical activity or exercise can improve your health and reduce the risk of developing several diseases like type 2 diabetes, cancer and cardiovascular disease. Physical activity and exercise can have immediate and long-term health benefits. Most importantly, regular activity can improve your quality of life. A minimum of 30 minutes a day can allow you to enjoy these benefits. People who are physically fit are also happier. In order to maintain a relaxed state of mind, a person should be physically active. A person who is fit both physically and mentally is strong enough to face the ups and downs of life, and is not affected by drastic changes if they take place.",
+        "subtema": [
+            {
+                "id": 0,
+                "title": "Lose weight",
+                "texto": "Cardio sections",
+                "imagen": "cardio.jpg"
+            },
+            {
+                "id": 1,
+                "title": "Increase muscle mass",
+                "texto": "Force sections",
+                "imagen": "force.jpg"
+            },
+            {
+                "id": 2,
+                "title": "Yoga and Pilates",
+                "texto": "Stretching sections",
+                "imagen": "yoga.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "url": "estabilidad_emocional.JPG",
+        "title1": "Emotional Stability",
+        "title2": "REILE",
+        "p1": "website/",
+        "p2": "Show me more",
+        "titleInformacion": "Why we should pursue emotional stability?",
+        "informacion": "Emotional health is an important part of general health. People who are emotionally healthy are in control of their thoughts, feelings, and behaviors. They are able to cope with the challenges of life. They can keep problems in perspective and bounce back from setbacks. They feel good about themselves and have healthy relationships. Being emotionally healthy does not mean that you are happy all the time. It means that you are aware of your emotions. You can deal with them, whether they are positive or negative. Emotionally healthy people also experience stress, anger, and sadness. But they know how to handle their negative feelings. They can know when a problem is more than they can handle alone. They also know when to seek help from their doctor. Research shows that emotional health is a skill. There are steps you can take to improve your emotional health and be happier.",
+        "subtema": [
+            {
+                "id": 0,
+                "title": "Spreading",
+                "texto": "Reach your goals",
+                "imagen": "spreading.jpg"
+            },
+            {
+                "id": 1,
+                "title": "Personal development",
+                "texto": "Feed your spirit",
+                "imagen": "development.jpg"
+            },
+            {
+                "id": 2,
+                "title": "Elimination of extres",
+                "texto": "Relaxation and concentration",
+                "imagen": "extres.jpg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+.Indicator_Styled {
+    top: 45%;
+    position: fixed;
+    right: 0;
+}
+
+.Indicator_Container {
+    position: relative;
+}
+
+.Indicator {
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    z-index: -1;
+    width: 10px;
+    height: 10px;
+    position: relative;
+    text-align: center;
+    transition: 1s;
+    background: rgba(150, 147, 147);
+    margin: 5px;
+}
+
+.Indicator_selected {
+    background: black;
+}
