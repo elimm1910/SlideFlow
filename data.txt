@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "url": "fondo.svg",
+        "url": "./fondo.svg",
         "title1": "Health & Wellness",
         "title2": "Yogui",
         "p1": "educational website/",
@@ -9,7 +9,7 @@
     },
     {
         "id": 1,
-        "url": "healt_food.jpg",
+        "url": "./healt_food.jpg",
         "title1": "Food & Nutrition",
         "title2": "REILE",
         "p1": "website/",
@@ -21,25 +21,25 @@
                 "id": 0,
                 "title": "Breakfast",
                 "texto": "The best way to start the day",
-                "imagen": "breakfast.jpg"
+                "imagen": "./breakfast.jpg"
             },
             {
                 "id": 1,
                 "title": "Foods",
                 "texto": "Give the body what it needs",
-                "imagen": "food.jpeg"
+                "imagen": "./food.jpeg"
             },
             {
                 "id": 2,
                 "title": "Desserts",
                 "texto": "Incredible flavors",
-                "imagen": "dessert.jpg"
+                "imagen": "./dessert.jpg"
             }
         ]
     },
     {
         "id": 2,
-        "url": "fitness.jpg",
+        "url": "./fitness.jpg",
         "title1": "Fitness",
         "title2": "REILE",
         "p1": "website/",
@@ -51,25 +51,25 @@
                 "id": 0,
                 "title": "Lose weight",
                 "texto": "Cardio sections",
-                "imagen": "cardio.jpg"
+                "imagen": "./cardio.jpg"
             },
             {
                 "id": 1,
                 "title": "Increase muscle mass",
                 "texto": "Force sections",
-                "imagen": "force.jpg"
+                "imagen": "./force.jpg"
             },
             {
                 "id": 2,
                 "title": "Yoga and Pilates",
                 "texto": "Stretching sections",
-                "imagen": "yoga.jpg"
+                "imagen": "./yoga.jpg"
             }
         ]
     },
     {
         "id": 3,
-        "url": "estabilidad_emocional.JPG",
+        "url": "./estabilidad_emocional.JPG",
         "title1": "Emotional Stability",
         "title2": "REILE",
         "p1": "website/",
@@ -81,19 +81,19 @@
                 "id": 0,
                 "title": "Spreading",
                 "texto": "Reach your goals",
-                "imagen": "spreading.jpg"
+                "imagen": "./spreading.jpg"
             },
             {
                 "id": 1,
                 "title": "Personal development",
                 "texto": "Feed your spirit",
-                "imagen": "development.jpg"
+                "imagen": "./development.jpg"
             },
             {
                 "id": 2,
                 "title": "Elimination of extres",
                 "texto": "Relaxation and concentration",
-                "imagen": "extres.jpg"
+                "imagen": "./extres.jpg"
             }
         ]
     }
