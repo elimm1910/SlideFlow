@@ -11,8 +11,8 @@ Libraries Used:
 - react-redux
 - framer-motion
 
-[Desktop Navigation in Action](https://elimm1910.github.io/Project_Web/SlideFlow/videos/Desktop.mp4)
+[Desktop Navigation in Action](https://elimm1910.github.io/SlideFlow/videos/Desktop.mp4)
 
-[Responsive Design Showcase](https://elimm1910.github.io/Project_Web/SlideFlow/videos/Responsive.mp4)
+[Responsive Design Showcase](https://elimm1910.github.io/SlideFlow/videos/Responsive.mp4)
 
-[Dynamic Component Adjustment](https://elimm1910.github.io/Project_Web/SlideFlow/videos/Component_Adjustment.mp4)
+[Dynamic Component Adjustment](https://elimm1910.github.io/SlideFlow/videos/Component_Adjustment.mp4)
