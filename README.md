@@ -1,6 +1,8 @@
 # Slide Flow
 Slide Flow is an innovative web project designed to showcase custom animations and smooth transitions between pages. The focus of the project is to provide a seamless user experience by replacing traditional scrolling with dynamic sliding effects. These transitions are not only visually appealing but also enhance the overall interactivity of the website.
 
+The page is aviable in [SlideFlow](https://elimm1910.github.io/SlideFlow/)
+
 With Slide Flow, users can enjoy:
 - Fully tailored animations to create unique page transitions.
 - A modern alternative to standard scrolling, offering a sleek and intuitive navigation experience.
@@ -11,11 +13,8 @@ Libraries Used:
 - react-redux
 - framer-motion
 
-<!-- [Desktop Navigation in Action](https://elimm1910.github.io/SlideFlow/videos/Desktop.mp4) -->
-![Desktop Navigation in Action](./videos/Desktop.gif)
-![Responsive Design Showcase](./videos/Responsive.gif)
-![Dynamic Component Adjustment](./Component_Adjustment.gif)
+[Desktop Navigation in Action](./videos/Desktop.gif)
 
-<!-- [Responsive Design Showcase](https://elimm1910.github.io/SlideFlow/videos/Responsive.mp4) -->
+[Responsive Design Showcase](./videos/Responsive.gif)
 
-<!-- [Dynamic Component Adjustment](https://elimm1910.github.io/SlideFlow/videos/Component_Adjustment.mp4) -->
+[Dynamic Component Adjustment](./videos/Component_Adjustment.gif)
