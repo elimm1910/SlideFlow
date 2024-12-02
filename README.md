@@ -12,6 +12,7 @@ Libraries Used:
 - framer-motion
 
 [Desktop Navigation in Action](https://elimm1910.github.io/SlideFlow/videos/Desktop.mp4)
+![Desktop Navigation in Action](./videos/Desktop.gif)
 
 [Responsive Design Showcase](https://elimm1910.github.io/SlideFlow/videos/Responsive.mp4)
 
