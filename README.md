@@ -17,4 +17,4 @@ Libraries Used:
 
 [Dynamic Component Adjustment](https://elimm1910.github.io/SlideFlow/videos/Component_Adjustment.mp4)
 
-<video src="https://elimm1910.github.io/SlideFlow/videos/Desktop.mp4" controls width="600"></video>
+<video src="./videos/Desktop.mp4" controls width="600"></video>
